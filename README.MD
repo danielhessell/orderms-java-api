@@ -93,7 +93,7 @@ If you have any questions, check this out [guide on how to contribute to GitHub]
 
 ## :page_facing_up: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/danielhessell/orderms-java-api/blob/master/LICENSE) file for more details.
+This project is under the Apache-2.0 license. See the [LICENSE](https://github.com/danielhessell/orderms-java-api/blob/master/LICENSE) file for more details.
 
 ---
 
